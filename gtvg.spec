@@ -7,6 +7,7 @@ Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://dl.sourceforge.net/gtvg/%{name}-%{version}.tar.gz
+# Source0-md5:	6e3dd67f7f98a3217e4a960fb2eb5466
 URL:		http://gtvg.sourceforge.net/
 BuildRequires:	GConf2-devel
 BuildRequires:	autoconf
